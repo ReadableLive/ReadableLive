@@ -1,5 +1,5 @@
 # ReadableLive
-## This file/repo contains information on performing NLP analyses on NPR Interviews to find sentimentality.
+## This file/repo contains source code for ReadableLive, a customizable and personalized text-to-speech audiobook generator.
 
 ## Project Description
 
